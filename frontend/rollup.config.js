@@ -13,7 +13,6 @@ import {
 
 const dev = (process.env.NODE_ENV === 'development')
 
-
 const template = async ({
   attributes,
   files,

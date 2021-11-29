@@ -527,6 +527,11 @@ minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
+munsell@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/munsell/-/munsell-1.0.5.tgz#11f122cc615414554704704c3740b35b4021bfa0"
+  integrity sha512-mrhtVbvdtUZ3De1o2SNRR6SXCkfcjOa5EYJ+CLGxmXDEqTbFQ7rEOlQ6kdqbL4jlG4rVuukevuBFQfjWbkuHVA==
+
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
